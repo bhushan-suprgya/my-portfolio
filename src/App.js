@@ -17,6 +17,8 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+import pdf from "./Assets/Resume - Suprgya Bhushan.pdf";
+
 function App() {
   const [load, upadateLoad] = useState(true);
 
